@@ -1,5 +1,0 @@
-listen
-get on
-focus 
-practice
-get it done
